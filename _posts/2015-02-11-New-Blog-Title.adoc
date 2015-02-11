@@ -1,2 +1,0 @@
-= New Blog Title
-:published_date: 2015-02-10
